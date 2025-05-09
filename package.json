@@ -1,0 +1,31 @@
+{
+	"name": "route-parameter-client",
+	"dependencies": {
+		"body-parser": "^2.2.0",
+		"cookie-parser": "^1.4.7",
+		"dotenv": "^16.5.0",
+		"express": "^4.21.2",
+		"fcc-express-bground": "github:freeCodeCamp/fcc-express-bground-pkg",
+		"node": "^24.0.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/montrell43/route-parameter-client.git"
+	},
+	"engines": {
+		"node": ">=18.18.0 <19.0.0"
+	},
+	"version": "1.0.0",
+	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/montrell43/route-parameter-client/issues"
+	},
+	"homepage": "https://github.com/montrell43/route-parameter-client#readme"
+}
